@@ -1,0 +1,73 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    width: 960px;
+    color: #777777;
+    background-color: gray;
+}
+
+/* the over page */
+
+.container {
+    width: 960px;
+    margin: 0 auto;
+    clear: both;
+    
+}
+
+h1, {
+    font-family: Georgia, Times, "Times New Roman", serif;
+    background-color: #4aaaa5;
+    color: white;
+    width: 200px;
+    height: 100px;
+    padding: 30px;
+}
+
+name {
+    float: left;
+
+}
+
+About {
+    background-color: white;
+    width: 200px;
+    height: 100px;
+    padding: 30px;
+}
+
+Portfolio{
+    background-color: white;
+    width: 200px;
+    height: 100px;
+    padding: 30px;
+
+}
+
+Contact {
+    float: right;
+    background-color: white;
+    width: 200px;
+    height: 100px;
+    padding: 30px;
+}
+
+section {
+    width: 565px;
+    height: 300px;
+    background-color: #ebebeb;
+}
+
+
+footer {
+    color: #ffffff;
+    background-color: ##777;
+    clear: both;
+    margin-top: 20px;
+}
+
+
+
